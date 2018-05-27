@@ -3,7 +3,7 @@ The Constitution of the Linux Users Group of Notre Dame
 
 Article I. NAME
 ---------------
-The name of this organization shall be the Linux Users Group of Notre Dame (ND LUG).
+The name of this organization shall be the Linux Users Group of Notre Dame (NDLUG).
 
 Article II. PURPOSE
 -------------------
@@ -13,7 +13,7 @@ Article III. MEMBERSHIP
 -----------------------
   - Section 1. The members of NDLUG are to be any students of the University of Notre Dame, Saint Mary's College, and Holy Cross College.
   - Section 2. The members of the organization are to be Linux enthusiasts, or interested in learning why there exist Linux enthusiasts, such that together we can promote the education of Linux
-  - Section 3. Active members are those students of the University of Notre Dame who have stated an interest in Linux Uses Group of Notre Dame, have joined the Lug website by giving NDLUG their name and email address, and have paid their current dues (if any) whilst actively making an effort to attend club meetings and/or activities.
+  - Section 3. Active members are those students of the University of Notre Dame who have stated an interest in Linux Uses Group of Notre Dame, have joined the NDLUG website by giving NDLUG their name and email address, and have paid their current dues (if any) whilst actively making an effort to attend club meetings and/or activities.
 
 Article IV. MEMBERSHIP FEES
 ---------------------------
